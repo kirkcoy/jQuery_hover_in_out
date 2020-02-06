@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* outline: solid red 1px; */
+}
+
+.container {
+    text-align: center;
+    margin: 50px;
+}
+
+    h1 {
+        color: green;
+    }
+
+    p {
+        margin-top: 10px;
+        color: blue;
+        
+    }
+
+    .suits {
+        margin-top: 10px;
+        display: block;
+    }
+
+    .pants {
+        display: block;
+    }
+
+    img {
+        border: solid black 3px;
+        margin: 10px;
+        height: 300px;
+        width: 276px;
+        
+    }
